@@ -113,5 +113,5 @@
 
 .event__info__desc.is-visible,
 .event__info__desc.is-visible p {
-  max-height: auto;
+  max-height: initial;
 }
